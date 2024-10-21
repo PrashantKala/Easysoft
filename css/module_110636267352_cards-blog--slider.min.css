@@ -1,1 +1,150 @@
-.card-image img{border-radius:2px}.card h2{color:#141414;font-size:20px;font-weight:600;line-height:1.5;margin:32px 0 8px}.u-bg--black .card h2{color:#fff}.u-bg--black .card .card-summary,.u-bg--black .card .card-summary p,.u-bg--black .card .card-summary ul,.u-bg--black .card .card-summary ul li{color:#a3a3a3}.card.card--manual.text--large h2{font-size:1.875rem;margin-top:3rem}.card.card--manual .card-summary p:first-of-type{margin-top:0}.card.card--manual.text--large .card-cta,.card.card--manual.text--large .card-summary,.card.card--manual.text--large .card-summary p{font-size:20px}.card.card--manual .card-summary ul{padding-left:30px}.card.card--manual.text--large .card-summary ul li{font-size:20px}@media screen and (max-width:767px){.card.card--manual.text--large h2{font-size:1.5rem}.card.card--manual.text--large .card-summary,.card.card--manual.text--large .card-summary p,.card.card--manual.text--large .card-summary ul li{font-size:1.125rem}}.card .card-meta{color:#737373}.card .card-meta+h2{margin-top:0}.card-summary{color:#424242}.card-cta{color:#141414;font-weight:500}.u-bg--black .card-cta{color:#fff}.card-cta span{align-items:center;display:flex}.card-cta span span{border-bottom:1px solid}.arrows--custom button{background-color:#f3f3f3;border:none;border-radius:2px}.arrows--custom button:not(.slick-disabled):hover{background:#d0d5dd}.arrows--custom button svg path{fill:#424242}.u-bg--black .arrows--custom button{background-color:#282828;border:none;border-radius:2px}.u-bg--black .arrows--custom button:not(.slick-disabled):hover{background:#28282841}.u-bg--black .arrows--custom button svg path{fill:#e5e5e5}.u-bg--black .slick-arrow.slick-disabled svg path{fill:#888}.blog--slider .slick-slide{margin-right:2rem!important}.blog--slider .slick-slide:last-of-type{margin-right:0!important}.card--slider .arrows--custom button{padding:5px}.card--slider .arrows--custom button svg{height:24px;width:24px}.arrows--custom button:not(.slick-disabled):hover{background:#e5e5e5}@media (max-width:767px){.card--slider .slick-list{width:85%}.blog--slider .slick-slide{max-width:100vw}}
+.card-image img {
+    border-radius: 2px
+}
+
+.card h2 {
+    color: #141414;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.5;
+    margin: 32px 0 8px
+}
+
+.u-bg--black .card h2 {
+    color: #fff
+}
+
+.u-bg--black .card .card-summary,
+.u-bg--black .card .card-summary p,
+.u-bg--black .card .card-summary ul,
+.u-bg--black .card .card-summary ul li {
+    color: #a3a3a3
+}
+
+.card.card--manual.text--large h2 {
+    font-size: 1.875rem;
+    margin-top: 3rem
+}
+
+.card.card--manual .card-summary p:first-of-type {
+    margin-top: 0
+}
+
+.card.card--manual.text--large .card-cta,
+.card.card--manual.text--large .card-summary,
+.card.card--manual.text--large .card-summary p {
+    font-size: 20px
+}
+
+.card.card--manual .card-summary ul {
+    padding-left: 30px
+}
+
+.card.card--manual.text--large .card-summary ul li {
+    font-size: 20px
+}
+
+@media screen and (max-width:767px) {
+    .card.card--manual.text--large h2 {
+        font-size: 1.5rem
+    }
+
+    .card.card--manual.text--large .card-summary,
+    .card.card--manual.text--large .card-summary p,
+    .card.card--manual.text--large .card-summary ul li {
+        font-size: 1.125rem
+    }
+}
+
+.card .card-meta {
+    color: #737373
+}
+
+.card .card-meta+h2 {
+    margin-top: 0
+}
+
+.card-summary {
+    color: #424242
+}
+
+.card-cta {
+    color: #141414;
+    font-weight: 500
+}
+
+.u-bg--black .card-cta {
+    color: #fff
+}
+
+.card-cta span {
+    align-items: center;
+    display: flex
+}
+
+.card-cta span span {
+    border-bottom: 1px solid
+}
+
+.arrows--custom button {
+    background-color: #f3f3f3;
+    border: none;
+    border-radius: 2px
+}
+
+.arrows--custom button:not(.slick-disabled):hover {
+    background: #d0d5dd
+}
+
+.arrows--custom button svg path {
+    fill: #424242
+}
+
+.u-bg--black .arrows--custom button {
+    background-color: #282828;
+    border: none;
+    border-radius: 2px
+}
+
+.u-bg--black .arrows--custom button:not(.slick-disabled):hover {
+    background: #28282841
+}
+
+.u-bg--black .arrows--custom button svg path {
+    fill: #e5e5e5
+}
+
+.u-bg--black .slick-arrow.slick-disabled svg path {
+    fill: #888
+}
+
+.blog--slider .slick-slide {
+    margin-right: 2rem !important
+}
+
+.blog--slider .slick-slide:last-of-type {
+    margin-right: 0 !important
+}
+
+.card--slider .arrows--custom button {
+    padding: 5px
+}
+
+.card--slider .arrows--custom button svg {
+    height: 24px;
+    width: 24px
+}
+
+.arrows--custom button:not(.slick-disabled):hover {
+    background: #e5e5e5
+}
+
+@media (max-width:767px) {
+    .card--slider .slick-list {
+        width: 85%
+    }
+
+    .blog--slider .slick-slide {
+        max-width: 100vw
+    }
+}
